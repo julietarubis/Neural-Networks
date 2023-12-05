@@ -5,8 +5,6 @@ E-tivity 2: Neural Networks
 This repository contains the code and documentation for E-tivity 2 on Neural Networks. In this E-tivity, we explore the implementation of a simple artificial neural network (ANN) for classification tasks. The tasks involve coding a Perceptron manually, implementing gradient descent, and utilizing Scikit-learn for a more complex ANN. The final task introduces a challenge where feature engineering is required for model fitting.
 Instructions
 
-Please follow the tasks outlined in the Jupyter notebook provided in this repository. The notebook covers the following tasks:
-
     Task 1: Coding a Perceptron (Manual Implementation)
         Implement a Perceptron with a single node and a sigmoid activation function.
         Write a group prediction function.
@@ -29,14 +27,6 @@ Please follow the tasks outlined in the Jupyter notebook provided in this reposi
     Task 4: Model Fitting Challenge (Not to be publicly posted)
         Utilize feature engineering to fit an ANN to a challenging dataset.
 
-Grading Guidelines
-
-Refer to the grading guidelines for assessment criteria.
-Data
-
 The code cell in the notebook generates a random dataset with features 𝑥, 𝑦, and 𝐺𝑟𝑜𝑢𝑝 for classification tasks.
-Note
-
-Ensure you have the necessary Python modules installed, including NumPy, Matplotlib, and Scikit-learn, to run the code successfully.
-
+Note. Ensure you have the necessary Python modules installed, including NumPy, Matplotlib, and Scikit-learn, to run the code successfully.
 Feel free to reach out if you have any questions or encounter issues. Good luck with the E-tivity!
